@@ -12,3 +12,18 @@
 /home/dan/Projects/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
 /home/dan/Projects/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
 /home/dan/Projects/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
