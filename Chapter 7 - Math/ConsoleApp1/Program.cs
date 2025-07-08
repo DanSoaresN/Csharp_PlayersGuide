@@ -1,17 +1,15 @@
 ﻿// Description: This program calculates the area of a triangle based on user input for height and base length.
 
-//to store the user's input number you need to parse the string to a double
+//to store the user's input number you need to parse the string to a float
 Console.WriteLine("Write the Base");
-string TBase = Console.ReadLine();
-double TBaseNumber = double.Parse(TBase);
+float TBaseNumber = float.Parse(Console.ReadLine());
 Console.WriteLine("Write the Height");
-string THeight = Console.ReadLine();
-double THeightNumber = double.Parse(THeight);
+float THeightNumber = float.Parse(Console.ReadLine());
 
 Console.WriteLine("The Area of the Triangle is: " + CalculateArea(THeightNumber, TBaseNumber));
 
 
-double CalculateArea(double height, double baseLength)
+float CalculateArea(float height, float baseLength)
 {
     return (height * baseLength) / 2;
 }
