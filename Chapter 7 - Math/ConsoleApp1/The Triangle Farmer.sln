@@ -1,8 +1,12 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Triangle Farmer", "The Triangle Farmer.csproj", "{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Four Sisters and the Duckbear", "..\The Four Sisters and the Duckbear\The Four Sisters and the Duckbear.csproj", "{66B6D1DB-9DA2-41BC-B5BA-67E8E297A14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Dominion Of Kings", "..\The Dominion Of Kings\The Dominion Of Kings.csproj", "{97D95ED8-A19F-4B35-8D16-A7D036A0AF2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +18,14 @@ Global
 		{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B6D1DB-9DA2-41BC-B5BA-67E8E297A14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B6D1DB-9DA2-41BC-B5BA-67E8E297A14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B6D1DB-9DA2-41BC-B5BA-67E8E297A14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B6D1DB-9DA2-41BC-B5BA-67E8E297A14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D95ED8-A19F-4B35-8D16-A7D036A0AF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D95ED8-A19F-4B35-8D16-A7D036A0AF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D95ED8-A19F-4B35-8D16-A7D036A0AF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D95ED8-A19F-4B35-8D16-A7D036A0AF2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

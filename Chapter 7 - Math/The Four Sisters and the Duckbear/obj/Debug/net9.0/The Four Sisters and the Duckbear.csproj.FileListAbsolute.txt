@@ -1,0 +1,15 @@
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/bin/Debug/net9.0/The Four Sisters and the Duckbear
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/bin/Debug/net9.0/The Four Sisters and the Duckbear.deps.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/bin/Debug/net9.0/The Four Sisters and the Duckbear.runtimeconfig.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/bin/Debug/net9.0/The Four Sisters and the Duckbear.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/bin/Debug/net9.0/The Four Sisters and the Duckbear.pdb
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/The Four Sisters and the Duckbear.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/The Four Sisters and the Duckbear.AssemblyInfoInputs.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/The Four Sisters and the Duckbear.AssemblyInfo.cs
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/The Four Sisters and the Duckbear.csproj.CoreCompileInputs.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/The Four Sisters and the Duckbear.sourcelink.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/The Four Sisters and the Duckbear.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/refint/The Four Sisters and the Duckbear.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/The Four Sisters and the Duckbear.pdb
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/The Four Sisters and the Duckbear.genruntimeconfig.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Four Sisters and the Duckbear/obj/Debug/net9.0/ref/The Four Sisters and the Duckbear.dll

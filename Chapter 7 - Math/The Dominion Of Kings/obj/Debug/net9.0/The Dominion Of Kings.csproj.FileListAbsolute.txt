@@ -1,0 +1,15 @@
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/bin/Debug/net9.0/The Dominion Of Kings
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/bin/Debug/net9.0/The Dominion Of Kings.deps.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/bin/Debug/net9.0/The Dominion Of Kings.runtimeconfig.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/bin/Debug/net9.0/The Dominion Of Kings.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/bin/Debug/net9.0/The Dominion Of Kings.pdb
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/The Dominion Of Kings.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/The Dominion Of Kings.AssemblyInfoInputs.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/The Dominion Of Kings.AssemblyInfo.cs
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/The Dominion Of Kings.csproj.CoreCompileInputs.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/The Dominion Of Kings.sourcelink.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/The Dominion Of Kings.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/refint/The Dominion Of Kings.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/The Dominion Of Kings.pdb
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/The Dominion Of Kings.genruntimeconfig.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 7 - Math/The Dominion Of Kings/obj/Debug/net9.0/ref/The Dominion Of Kings.dll
