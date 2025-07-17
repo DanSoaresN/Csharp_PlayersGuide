@@ -1,0 +1,15 @@
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/bin/Debug/net9.0/The Defense of Consolas
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/bin/Debug/net9.0/The Defense of Consolas.deps.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/bin/Debug/net9.0/The Defense of Consolas.runtimeconfig.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/bin/Debug/net9.0/The Defense of Consolas.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/bin/Debug/net9.0/The Defense of Consolas.pdb
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/The Defense of Consolas.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/The Defense of Consolas.AssemblyInfoInputs.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/The Defense of Consolas.AssemblyInfo.cs
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/The Defense of Consolas.csproj.CoreCompileInputs.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/The Defense of Consolas.sourcelink.json
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/The Defense of Consolas.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/refint/The Defense of Consolas.dll
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/The Defense of Consolas.pdb
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/The Defense of Consolas.genruntimeconfig.cache
+/home/dan/Documents/GitHub/Csharp_PlayersGuide/Chapter 8 - Console 2.0/The Defense of Consolas/obj/Debug/net9.0/ref/The Defense of Consolas.dll
